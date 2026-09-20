@@ -2,15 +2,26 @@
 
 ### Software Developer | Problem Solver | Tech Enthusiast
 
-Soy un desarrollador enfocado en construir soluciones eficientes, escalables y bien estructuradas. Me apasiona el código limpio, aprender nuevas herramientas y colaborar en proyectos que generen impacto real.
+Soy un desarrollador de software enfocado en construir soluciones eficientes, escalables y bien estructuradas. Me apasiona el código limpio, la arquitectura de bases de datos y la creación de productos que unen el desarrollo web con el mundo tangible.
 
 ---
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en: **[Nombre de tu proyecto o área actual]**
-- 🌱 Aprendiendo y profundizando en: **[Tecnología o arquitectura que estés explorando]**
-- 💬 Pregúntame sobre: **[Tus tecnologías más fuertes, ej. JavaScript, Python, APIs]**
-- ⚡ Dato curioso: **[Un interés personal breve, ej. fanático del ajedrez, café de especialidad, etc.]**
+- 🔭 Actualmente trabajando en: **Alianzas Estratégicas en Servicios Nacionales**
+- 💡 CoFundador & Creador de: **Nawi** (ecosistema *phygital* de productos inteligentes con NFC)
+- 🌱 Aprendiendo y profundizando en: **Flutter** y ecosistema moderno de **React**
+- 💬 Pregúntame sobre: **React, PostgreSQL, Node.js y diseño de APIs**
+- ⚡ Dato curioso: **Entusiasta de la impresión 3D, el diseño de producto y la integración de hardware con software**
+
+---
+
+### 💡 Emprendimiento | Fundador en Nawi
+
+> **Nawi** conecta el mundo físico con el digital (*Phygital*) desarrollando productos interactivos (como lámparas y llaveros inteligentes) mediante tecnología NFC pasiva, vinculados a perfiles web dinámicos en tiempo real.
+
+- ⚙️ **Hardware & Fabricación:** Integración y encapsulado de tags NFC pasivos (13.56 MHz) en piezas de diseño físico sin necesidad de baterías.
+- 💻 **Software & Cloud:** Arquitectura en Node.js y PostgreSQL para gestión de usuarios, redirección inteligente y perfiles personalizables.
+- 🛠️ **Enfoque técnico:** Seguridad de acceso, optimización de lectura instantánea y APIs desacopladas.
 
 ---
 
@@ -19,34 +30,25 @@ Soy un desarrollador enfocado en construir soluciones eficientes, escalables y b
 **Lenguajes:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frameworks & Librerías:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Bases de Datos & DevOps:**  
+**Bases de Datos, Hardware & Control de Versiones:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NFC](https://img.shields.io/badge/-NFC%20Tech-002D62?style=flat-square&logo=contactless-payment&logoColor=white)
 
 ---
 
-### 📌 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías | Enlaces |
-| :--- | :--- | :--- | :--- |
-| **Nombre del Proyecto 1** | Solución que resuelve X problema mediante Y arquitectura. | React, Node.js, PostgreSQL | [Repo](https://github.com/jhonnyagudelo) · [Demo](https://demo.com) |
-| **Nombre del Proyecto 2** | API RESTful con autenticación JWT y optimización de consultas. | Express, MongoDB, Docker | [Repo](https://github.com/jhonnyagudelo) · [Demo](https://demo.com) |
-
----
-
-### 📊 Estadísticas
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonnyagudelo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyagudelo&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonnyagudelo&show_icons=true&theme=tokyonight" alt="Estadísticas de Jhonny Agudelo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyagudelo&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
