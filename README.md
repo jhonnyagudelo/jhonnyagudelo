@@ -8,9 +8,9 @@ Soy un desarrollador de software enfocado en construir soluciones eficientes, es
 
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajando en: **Alianzas Estratégicas en Servicios Nacionales**
-- 💡 CoFundador & Creador de: **Nawi** (ecosistema *phygital* de productos inteligentes con NFC)
-- 🌱 Aprendiendo y profundizando en: **Flutter** y ecosistema moderno de **React**
-- 💬 Pregúntame sobre: **React, PostgreSQL, Node.js y diseño de APIs**
+- 💡 Fundador & Creador de: **Nawi** (ecosistema *phygital* de productos inteligentes con NFC)
+- 🌱 Aprendiendo y profundizando en: **Flutter**, **React** y **Astro**
+- 💬 Pregúntame sobre: **React, Astro, PostgreSQL, Node.js y diseño de APIs**
 - ⚡ Dato curioso: **Entusiasta de la impresión 3D, el diseño de producto y la integración de hardware con software**
 
 ---
@@ -20,8 +20,8 @@ Soy un desarrollador de software enfocado en construir soluciones eficientes, es
 > **Nawi** conecta el mundo físico con el digital (*Phygital*) desarrollando productos interactivos (como lámparas y llaveros inteligentes) mediante tecnología NFC pasiva, vinculados a perfiles web dinámicos en tiempo real.
 
 - ⚙️ **Hardware & Fabricación:** Integración y encapsulado de tags NFC pasivos (13.56 MHz) en piezas de diseño físico sin necesidad de baterías.
-- 💻 **Software & Cloud:** Arquitectura en Node.js y PostgreSQL para gestión de usuarios, redirección inteligente y perfiles personalizables.
-- 🛠️ **Enfoque técnico:** Seguridad de acceso, optimización de lectura instantánea y APIs desacopladas.
+- 💻 **Software & Cloud:** Arquitectura en Astro, Node.js y PostgreSQL para gestión de usuarios, redirección inteligente y perfiles ultrarrápidos y personalizables.
+- 🛠️ **Enfoque técnico:** Carga instantánea, seguridad de acceso y APIs desacopladas para interactuar al instante con cada toque del chip.
 
 ---
 
@@ -32,6 +32,7 @@ Soy un desarrollador de software enfocado en construir soluciones eficientes, es
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frameworks & Librerías:**  
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
